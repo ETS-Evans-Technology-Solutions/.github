@@ -52,7 +52,6 @@ Alongside client work, ETS develops and evaluates technologies that can improve 
 
 Areas of active research and development include:
 
-- Linux-based infrastructure
 - Local AI inference
 - Retrieval-augmented generation
 - AI-assisted systems management
